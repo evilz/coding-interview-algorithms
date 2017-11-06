@@ -1,0 +1,7 @@
+---
+uti: com.xamarin.workbook
+id: 1daf7702-4131-427b-b481-adc4903e86fa
+title: array
+platforms:
+- DotNetCore
+---
